@@ -4,7 +4,7 @@ Hosting bots costs money. If you want to help me without donating money you can 
 
 ### A useful bot for coding related discord servers.
 
-<video autoplay muted style="width: 100%; height: 100%;" name="Tutorial" src="./tutorial.mov"></video>
+<video autoplay muted loop style="width: 100%; height: 100%;" name="Tutorial" src="./tutorial.mov"></video>
 
 [Add to your server](http://bit.ly/addColorPicker) [Join the support server](http://discord.io/colorpicker)
 
