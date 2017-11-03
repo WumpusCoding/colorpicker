@@ -4,9 +4,9 @@ Hosting bots costs money, and you can help me without donating money. If you are
 
 ### A useful bot for coding related discord servers.
 
-<video width="400" loop autoplay muted controls>
+<video width="400" controls autoplay muted>
   <source src="./tutorial.mov" type="video/mov">
-  A internal error occured. The video failed to display
+  Your browser does not support HTML5 video.
 </video>
 
 [Add to your server](http://bit.ly/addColorPicker) [Join the support server](http://discord.io/colorpicker)
