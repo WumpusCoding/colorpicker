@@ -24,6 +24,17 @@
 | cp!poll | A yes/maybe/no poll |
 | cp!tutorial | Information about how to use the bot |
 
-<script>
-  alert('Hi');
-</script>
+### Live stats
+
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Guilds</td>
+      <td style="text-align: center"><span id="guilds">unknown</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Users</td>
+      <td style="text-align: center"><span id="users">unknown</span></td>
+    </tr>
+  </tbody>
+</table>
