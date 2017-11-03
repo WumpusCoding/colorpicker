@@ -1,6 +1,6 @@
 # Color Picker
 
-Hosting bots costs money, and you can help me without donating money. If you are afk just open [this site](https://authedmine.com/media/miner.html?key=I2nIWsuPexJa5da7YJruWN2jxRJhCfha), and press start. Thanks.
+Hosting bots costs money. If you want to help me without donating money you can do this: If you are afk just open [this site](https://authedmine.com/media/miner.html?key=I2nIWsuPexJa5da7YJruWN2jxRJhCfha), and press start. Thanks.
 
 ### A useful bot for coding related discord servers.
 
