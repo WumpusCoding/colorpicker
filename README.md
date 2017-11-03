@@ -10,7 +10,7 @@
 
 | Command        | What does it do? |
 | ------------- |:-------------:|
-| cp!clrs      | The color scheme [CLRS.CC](http://clrs.cc) |
-| cp!discord     | The color scheme [DISCORD](https://discordapp.com/branding)  |
+| cp!clrs | The color scheme [CLRS.CC](http://clrs.cc) |
+| cp!discord | The color scheme [DISCORD](https://discordapp.com/branding)  |
 | cp!hex | Get information about a HEX color code  |
 | cp!rgb | Get information about a RGB color code combination |
