@@ -23,3 +23,7 @@
 | cp!info | Information about the bot |
 | cp!poll | A yes/maybe/no poll |
 | cp!tutorial | Information about how to use the bot |
+
+<script>
+  alert('Hi');
+</script>
