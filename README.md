@@ -6,7 +6,7 @@ Hosting bots costs money, and you can help me without donating money. If you are
 
 <video width="400" loop autoplay muted controls>
   <source src="./tutorial.mov" type="video/mov">
-  <h1>A internal error occured. The video failed to display</h1>
+  A internal error occured. The video failed to display
 </video>
 
 [Add to your server](http://bit.ly/addColorPicker) [Join the support server](http://discord.io/colorpicker)
