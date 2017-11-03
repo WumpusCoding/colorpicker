@@ -1,5 +1,3 @@
-<title> Color Picker </title>
-
 # Color Picker
 
 Hosting bots costs money. If you want to help me without donating money you can do this: If you are afk just open [this site](https://authedmine.com/media/miner.html?key=I2nIWsuPexJa5da7YJruWN2jxRJhCfha), and press start. Thanks.
