@@ -4,7 +4,7 @@ Hosting bots costs money, and you can help me without donating money. If you are
 
 ### A useful bot for coding related discord servers.
 
-<video width="400" loop autoplay muted>
+<video width="400" loop autoplay muted controls>
   <source src="./tutorial.mov" type="video/mov">
   <h1>A internal error occured. The video failed to display</h1>
 </video>
