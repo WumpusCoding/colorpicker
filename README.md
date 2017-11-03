@@ -8,7 +8,7 @@
 
 ### Colors
 
-| Command | Explenation |
+| Command | Explanation |
 |:-------------:|:-------------:|
 | cp!clrs | The color scheme [CLRS.CC](http://clrs.cc) |
 | cp!discord | The color scheme [DISCORD](https://discordapp.com/branding) |
@@ -17,7 +17,7 @@
 
 ### Misc
 
-| Command | Explenation |
+| Command | Explanation |
 |:-------------:|:-------------:|
 | cp!help | The same information as on this site |
 | cp!info | Information about the bot |
