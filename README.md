@@ -6,6 +6,8 @@ Hosting bots costs money, and you can help me without donating money. If you are
 
 [Add to your server](http://bit.ly/addColorPicker) [Join the support server](http://discord.io/colorpicker)
 
+<video autoplay muted style="width: 100%; height: 100%;" name="Tutorial" src="./tutorial.mov"></video>
+
 ## Commands:
 
 ### Colors
